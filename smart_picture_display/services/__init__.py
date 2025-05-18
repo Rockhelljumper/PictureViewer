@@ -1,0 +1,1 @@
+"""Service modules for the Smart Picture Display application."""
